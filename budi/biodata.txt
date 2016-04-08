@@ -1,0 +1,4 @@
+bobi|bekasi|0987654
+bobigun|pontamas|456789
+bob|cibitung|67890
+bobi|damascus|13678
